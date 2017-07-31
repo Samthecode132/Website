@@ -1,0 +1,39 @@
+html{
+  background-color: ##ffff;
+}
+
+
+.myImage{
+  float: right;
+  height: 75px;
+  width: 235px;
+}
+
+#begin {
+  text-align: center;
+  padding-left: 170px;
+  padding-right: 170px;
+}
+
+#start {
+  padding-left: -50px;
+}
+
+.Sam{
+  float: right;
+  height: 75px;
+  width: 240px;
+
+}
+
+
+.Meli{
+  float: right;
+  height: 75px;
+  width: 235px;
+
+}
+
+p{
+  font-family: 'Roboto Condensed', sans-serif; color: #000000;
+}
